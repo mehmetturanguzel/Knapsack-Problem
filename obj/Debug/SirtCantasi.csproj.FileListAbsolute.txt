@@ -1,0 +1,9 @@
+c:\users\mehmet\documents\visual studio 2015\Projects\SirtCantasi\SirtCantasi\bin\Debug\SirtCantasi.exe.config
+c:\users\mehmet\documents\visual studio 2015\Projects\SirtCantasi\SirtCantasi\obj\Debug\SirtCantasi.csprojResolveAssemblyReference.cache
+c:\users\mehmet\documents\visual studio 2015\Projects\SirtCantasi\SirtCantasi\obj\Debug\SirtCantasi.Properties.Resources.resources
+c:\users\mehmet\documents\visual studio 2015\Projects\SirtCantasi\SirtCantasi\obj\Debug\SirtCantasi.csproj.GenerateResource.Cache
+c:\users\mehmet\documents\visual studio 2015\Projects\SirtCantasi\SirtCantasi\bin\Debug\SirtCantasi.exe
+c:\users\mehmet\documents\visual studio 2015\Projects\SirtCantasi\SirtCantasi\bin\Debug\SirtCantasi.pdb
+c:\users\mehmet\documents\visual studio 2015\Projects\SirtCantasi\SirtCantasi\bin\Debug\KansasStateUniversity.TreeViewer2.dll
+c:\users\mehmet\documents\visual studio 2015\Projects\SirtCantasi\SirtCantasi\obj\Debug\SirtCantasi.exe
+c:\users\mehmet\documents\visual studio 2015\Projects\SirtCantasi\SirtCantasi\obj\Debug\SirtCantasi.pdb
